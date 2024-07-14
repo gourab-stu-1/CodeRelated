@@ -1,0 +1,15 @@
+movies based on marvel comics.txt
+out.nam
+desktop.ini
+*.ini
+*.exe
+*.class
+*.nam
+*.tr
+# *.excalidraw
+# *.excalidraw.json
+# *.excalidraw.svg
+# *.excalidraw.png
+.vscode/
+a.out
+temporary/
