@@ -42,7 +42,7 @@ public:
         int pivot;
         if(lower < higher) {
             pivot = partition(arr, lower, higher);
-            quickSort(arr, lower, pivot);
+            quickSort(arr, lower, (pivot - 1));
             quickSort(arr, (pivot + 1), higher);
         }
     }
